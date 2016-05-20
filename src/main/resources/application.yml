@@ -6,7 +6,7 @@ info:
 
 spring:
   application:
-    name: kdc-account
+    name: aronim-cloud-account
 
 server:
   port: 0
