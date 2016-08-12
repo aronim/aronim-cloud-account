@@ -1,7 +1,7 @@
 info:
   app:
-    name: KdcCloudAccountService
-    description: KungfuDev Cloud Account Service
+    name: AronimCloudAccountService
+    description: Aronim Cloud Account Service
     version: 1.0-SNAPSHOT
 
 spring:
